@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 150px;
+    background-color: #1C2B35;
+    
+}
+.menu a{
+    margin: 10px;
+    text-decoration: none;
+    color:azure;
+}
+.menu a:hover{
+    color: #FF9900;
+}
